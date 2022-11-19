@@ -68,8 +68,10 @@ This yields an average score for each episode (where the average is over all 20 
 * The trained model
   * checkpoint_actor.pth
   * checkpoint_critic.pth
-* A Report.md file describing the development process and ideas for future work
+* A report describing the development process and ideas for future work
+  * Report.md 
 * Versions of various packages required to ensure smooth running of 'Continuous_Control_Final.ipynb' 
+  * requirements.txt
 * This README.md file
 
 ## Getting started
