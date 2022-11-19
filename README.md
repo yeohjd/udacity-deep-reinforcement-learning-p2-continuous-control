@@ -64,11 +64,12 @@ This yields an average score for each episode (where the average is over all 20 
 ## Included in this repository
 
 * The code used to create and train the Agent
-  * * 
+  * Continuous_Control_Final.ipynb
 * The trained model
   * checkpoint_actor.pth
   * checkpoint_critic.pth
 * A Report.md file describing the development process and ideas for future work
+* Versions of various packages required to ensure smooth running of 'Continuous_Control_Final.ipynb' 
 * This README.md file
 
 ## Getting started
