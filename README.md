@@ -30,7 +30,10 @@ You need only select the environment that matches your operating system:
 
 
 2. Unzip (or decompress) the downloaded file and place it in your working folder.
-3. Start by making sure that you have all the packages detailed in `environment.txt` 
+3. Start by making sure that you have all the packages detailed in `environment.txt`.
+    * You may do so by:
+        a) Activating your virtual environment
+        b) running the command `pip install -r your path/requirements.txt `
 4. Then, open the `Continuous_Control_Final.ipynb` and run the cells sequentially to initiate the process of agent interacting with environment while learning before achieving an average score of >=30.0 (average over 100 episodes). 
 
 
@@ -74,12 +77,4 @@ This yields an average score for each episode (where the average is over all 20 
   * requirements.txt
 * This README.md file
 
-## Getting started
-The project was done solely in the Udacity workspace and the only preparatory step needed to start the project was by running the command below to install the needed packages:
 
-```
-!pip -q install ./python
-```
-
-
-</br>
