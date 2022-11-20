@@ -33,7 +33,7 @@ You need only select the environment that matches your operating system:
 3. Start by making sure that you have all the packages detailed in `environment.txt`.
     * You may do so by:
         a) Activating your virtual environment
-        b) running the command `pip install -r your path/requirements.txt `
+        b) running the command `pip install -r requirements.txt `
 4. Then, open the `Continuous_Control_Final.ipynb` and run the cells sequentially to initiate the process of agent interacting with environment while learning before achieving an average score of >=30.0 (average over 100 episodes). 
 
 
